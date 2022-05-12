@@ -1,3 +1,3 @@
 from ase.io import Trajectory
 
-x = 200
+x=200
